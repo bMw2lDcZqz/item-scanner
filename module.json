@@ -1,0 +1,18 @@
+{
+    "name": "ItemScanner",
+    "alias": "itemscanner",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\ItemScanner\\Providers\\ItemScannerServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ],
+    "icon": "th-large",
+    "plural": "itemscanner",
+    "no-sidebar": 1
+}

@@ -1,0 +1,15 @@
+{
+    "name": "dicarlosystems/itemscanner-invoiceninja",
+    "description": "",
+    "authors": [
+        {
+            "name": "Christopher Di Carlo",
+            "email": "contact@dicarlosystems.ca"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\ItemScanner\\": ""
+        }
+    }
+}
